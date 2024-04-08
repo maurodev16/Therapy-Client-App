@@ -43,3 +43,18 @@ Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more informat
 If you have any questions, suggestions, or concerns, please do not hesitate to contact us. You can reach us by email at test-version@user-app.com.
 
 Thank you for your interest in the User-App and we wish you a healthy and happy time!
+
+## Screenshots
+
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px;">
+  <img src="screenshots/Screenshot_1.jpg" alt="Screenshot 1" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_2.jpg" alt="Screenshot 2" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_3.jpg" alt="Screenshot 3" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_4.jpg" alt="Screenshot 4" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_5.jpg" alt="Screenshot 5" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_6.jpg" alt="Screenshot 6" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_7.jpg" alt="Screenshot 7" width= 300px; height= auto;">
+  <img src="screenshots/Screenshot_8.jpg" alt="Screenshot 8" width= 300px; height: auto;">
+
+  <!-- Add more images as needed -->
+</div>
