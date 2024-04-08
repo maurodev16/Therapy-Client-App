@@ -55,6 +55,4 @@ Thank you for your interest in the User-App and we wish you a healthy and happy 
   <img src="screenshots/Screenshot_6.jpg" alt="Screenshot 6" width= 300px; height= auto;">
   <img src="screenshots/Screenshot_7.jpg" alt="Screenshot 7" width= 300px; height= auto;">
   <img src="screenshots/Screenshot_8.jpg" alt="Screenshot 8" width= 300px; height: auto;">
-
-  <!-- Add more images as needed -->
 </div>
