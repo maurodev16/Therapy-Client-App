@@ -1,6 +1,6 @@
-# Mauro Sergio Rodrigues da Silva Portfolio
+# Mauro Rodrigues - Portfolio
 
-# Benutzer-App for Therapy
+# User-App for Therapy
 
 Welcome to the User-App for therapy, an application designed to help you improve your mental health and well-being.
 
