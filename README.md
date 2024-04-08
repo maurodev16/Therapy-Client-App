@@ -46,7 +46,7 @@ Thank you for your interest in the User-App and we wish you a healthy and happy 
 
 ## Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <img src="screenshots/Screenshot_1.jpg" alt="Screenshot 1" width= 300px; height= auto;">
   <img src="screenshots/Screenshot_2.jpg" alt="Screenshot 2" width= 300px; height= auto;">
   <img src="screenshots/Screenshot_3.jpg" alt="Screenshot 3" width= 300px; height= auto;">
